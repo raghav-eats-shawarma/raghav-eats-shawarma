@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**raghav-eats-shawarma/raghav-eats-shawarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Raghav, a passionate techie working from India
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on some SaaS-like personal projects
+- 🌱 I’m currently learning Python, Javascript, Git and dabble on some hardware as a hobby.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I do vibecode, but I learn the language first.
+- 🛠️ As for tools, I use Google Antigravity as an IDE and use Docker and Git to release my projects.
+- 💬 Ask me about questions regarding my projects or some stuff you think I might find interesting (no spam pls).
+
+You could contact me on my socials (link in bio)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i like cats 😸
